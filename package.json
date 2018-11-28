@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "dj-pinch",
+        "scope": null,
+        "escapedName": "dj-pinch",
+        "name": "dj-pinch",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\z_workspace\\test2\\one"
+    ]
+  ],
+  "_from": "dj-pinch",
+  "_id": "dj-pinch@1.1.0",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha1-SqZndDupZtgS0eevg5GKKlhuE5Y=",
+  "_location": "/dj-pinch",
+  "_nodeVersion": "7.8.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/dj-pinch-1.0.7.tgz_1515665284998_0.21129988157190382"
+  },
+  "_npmUser": {
+    "name": "hanhx",
+    "email": "happydroll@163.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dj-pinch",
+    "name": "dj-pinch",
+    "escapedName": "dj-pinch",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dj-pinch/-/dj-pinch-1.1.0.tgz",
+  "_shasum": "4aa667743ba966d812d1e7af83918a2a586e1396",
+  "_shrinkwrap": null,
+  "_spec": "dj-pinch",
+  "_where": "D:\\z_workspace",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "vue 插件",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d196f11e710cf6b4d23c41c0e6c75daa11d8a921",
+    "tarball": "https://registry.npmjs.org/dj-pinch/-/dj-pinch-1.0.7.tgz"
+  },
+  "gitHead": "de0c38b5619bc4ad0a63b141ebd1054a1509e68e",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "hanhx",
+      "email": "happydroll@163.com"
+    }
+  ],
+  "name": "dj-pinch",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
